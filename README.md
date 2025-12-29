@@ -1,8 +1,4 @@
 <p align="center">
-  <h1 align="center">Drift Empire</h1>
-</p>
-
-<p align="center">
   <img src="https://raw.githubusercontent.com/Ezhik-Games-Studio/Drift-Empire-Images/main/banner.png" alt="Drift Empire Banner" width="800">
 </p>
 
