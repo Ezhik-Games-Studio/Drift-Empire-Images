@@ -14,8 +14,6 @@
 Open crates, find rare vehicles, customize your style, and hit the track  
 to prove you are the true drift legend.
 
----
-
 ## 🛒 Steam
 
 🟢 Steam page: **coming soon**
