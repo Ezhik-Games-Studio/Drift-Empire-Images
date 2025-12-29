@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/EzhikGames/Drift-Empire-Images/main/banner.png" alt="Drift Empire Banner" width="800">
+  <img src="https://raw.githubusercontent.com/Ezhik-Games-Studio/Drift-Empire-Images/main/banner.png" alt="Drift Empire Banner" width="800">
 </p>
 
 <p align="center">
